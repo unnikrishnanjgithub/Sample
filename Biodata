@@ -1,0 +1,12 @@
+package Unni;
+
+public class Biodata {
+
+	public static void main(String[] args) {
+		System.out.println("My name is unnikrishnan J ");
+		System.out.println("Im from trivandrum,kerala");
+		System.out.println(" Im a btech graduate");
+
+	}
+
+}
